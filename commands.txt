@@ -4,14 +4,40 @@ to fetch last updated documents after last commit
 to commit all at once
  git commit -m "any_sring"
 
-to check changes which occured last
- git log -p -number_of_chnages_you _wanna_see
+to check commit which occured last
+ git log -p -number_of_commit_you _wanna_see
 
-to compare current document with stahing area
+to compare current document with standing area
   git diff
 
 to compare staging area with last commit
   git diff --staged
+
+to commit without staging
+  git commit -a -m "any_string"
+
+to create new file
+  touch file_name
+  eg.-touch new.html
+
+to list items
+  ls
+
+to create ignore file
+  touch .gitignore
+
+to know about branch in git
+  git branch
+
+to create new branch 
+  git branch branch_name
+
+to checkout your branch
+  git checkout branch_name
+
+**type Esc :wq to terminate bakwaas window
+
+
 
 
 
