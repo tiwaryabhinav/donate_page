@@ -1,0 +1,18 @@
+to fetch last updated documents after last commit
+ git checkout -f
+
+to commit all at once
+ git commit -m "any_sring"
+
+to check changes which occured last
+ git log -p -number_of_chnages_you _wanna_see
+
+to compare current document with stahing area
+  git diff
+
+to compare staging area with last commit
+  git diff --staged
+
+
+
+
