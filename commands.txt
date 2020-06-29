@@ -37,6 +37,9 @@ to checkout your branch
 
 **type Esc :wq to terminate bakwaas window
 
+to set URL
+  git remote set-url origin _url
+
 
 
 
