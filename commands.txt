@@ -40,6 +40,12 @@ to checkout your branch
 to set URL
   git remote set-url origin _url
 
+to check for URLs of fetch and push
+  git remote -v
+
+to clone create a folder and open git bash there. then type
+  git clone url_of_repository
+
 
 
 
